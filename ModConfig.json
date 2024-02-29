@@ -1,0 +1,21 @@
+{
+  "ModId": "p3ppc.QoL.disableGetKeyboardLayout",
+  "ModName": "Lock Keyboard Layout",
+  "ModAuthor": "Lazyferret",
+  "ModVersion": "1.0.0",
+  "ModDescription": "A small QoL mod to disable the annoying language switching. It is mainly useful for people who have to use more than one keyboard layout",
+  "ModDll": "p3ppc.QoL.disableGetKeyboardLayout.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3ppc.QoL.disableGetKeyboardLayout.dll",
+  "ModR2RManagedDll64": "x64/p3ppc.QoL.disableGetKeyboardLayout.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3ppc.QoL.disableGetKeyboardLayout.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
